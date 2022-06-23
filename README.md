@@ -36,6 +36,7 @@ https://github.com/vmzakharov/mutate-test-kata
     - 327 commits, 282 stars
 - [mutmut](https://mutmut.readthedocs.io/en/latest/)
     - https://github.com/boxed/mutmut
+    - https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78
     - https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8
     - https://opensource.com/article/20/7/mutmut-python
     - Last update: March 2022
