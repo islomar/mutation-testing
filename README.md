@@ -28,13 +28,20 @@ https://github.com/vmzakharov/mutate-test-kata
 
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray)
     - https://cosmic-ray.readthedocs.io/en/latest/
-    - Last update: June 3rd 2022
+    - Last update: June 2022
     - 1.017 commits, 503 stars
+    - Loooks complex
 - [Mutpy](https://github.com/mutpy/mutpy)
+    - Last update: November 2017
+    - 327 commits, 282 stars
 - [mutmut](https://mutmut.readthedocs.io/en/latest/)
+    - https://github.com/boxed/mutmut
     - https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8
     - https://opensource.com/article/20/7/mutmut-python
+    - Last update: March 2022
+    - 438 commits, 623 stars
+    - Python 3.6
 - [Mutatest](https://mutatest.readthedocs.io/en/latest/)
-    - Last update: February 20th 2022
+    - Last update: February 2022
     - 406 commits, 49 stars
     - Python 3.7 and 3.8
