@@ -27,6 +27,14 @@ https://github.com/vmzakharov/mutate-test-kata
 ## Options in Ptyhon
 
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray)
+    - https://cosmic-ray.readthedocs.io/en/latest/
+    - Last update: June 3rd 2022
+    - 1.017 commits, 503 stars
 - [Mutpy](https://github.com/mutpy/mutpy)
 - [mutmut](https://mutmut.readthedocs.io/en/latest/)
+    - https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8
+    - https://opensource.com/article/20/7/mutmut-python
 - [Mutatest](https://mutatest.readthedocs.io/en/latest/)
+    - Last update: February 20th 2022
+    - 406 commits, 49 stars
+    - Python 3.7 and 3.8
