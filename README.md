@@ -24,7 +24,7 @@ https://github.com/vmzakharov/mutate-test-kata
 - [https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78) >> “demasiado duro usar Cosmic Ray"
 
 
-## Options in Ptyhon
+## Options in Python
 
 - [Cosmic Ray](https://github.com/sixty-north/cosmic-ray)
     - https://cosmic-ray.readthedocs.io/en/latest/
