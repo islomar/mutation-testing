@@ -14,7 +14,7 @@ https://github.com/vmzakharov/mutate-test-kata
 
 
 ## Slides
-- [My talk about mutation testing](https://docs.google.com/presentation/d/e/2PACX-1vRQLjeHWO7uYC9_GtZR0H9xWTAmFOMOcy55hWC2Ljo1Xslhk9pDlwKAwpsJz0LKgKKKrCEPclp9RaOo/pub?start=false&loop=false&delayms=3000)
+- [My talk about mutation testing]([https://docs.google.com/presentation/d/e/2PACX-1vRQLjeHWO7uYC9_GtZR0H9xWTAmFOMOcy55hWC2Ljo1Xslhk9pDlwKAwpsJz0LKgKKKrCEPclp9RaOo/pub?start=false&loop=false&delayms=3000](https://speakerdeck.com/islomar/mutation-testing-101)
 - [https://www.slideshare.net/RafaelVindelAmor/who-watches-the-watchmen-mutation-testing-75767706](https://www.slideshare.net/RafaelVindelAmor/who-watches-the-watchmen-mutation-testing-75767706)
 - [https://www.st.cs.uni-saarland.de/edu/testingdebugging10/slides/10-MutationTesting.pdf](https://www.st.cs.uni-saarland.de/edu/testingdebugging10/slides/10-MutationTesting.pdf)
 - Mutation testing with Pitest: [https://www.slideshare.net/garcia166/mutation-testing-63621306](https://www.slideshare.net/garcia166/mutation-testing-63621306)
